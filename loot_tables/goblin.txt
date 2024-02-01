@@ -1,0 +1,13 @@
+Default loot items 
+So that's where the smell came from...
+Enemy adventurer's accuracy fell!
+A common goblinoid delicacy.
+Dagger
+Its suffering from a bad case of mange.
+Throw it and run!
+The newest fashion statement.
+In fine clothes, but missing its eyes.
+"I'm gonna get the leg."
+Jackpot!
+There's a magical glowing gem in the gizzard.
+A burnt hand on a stick. Casts the spell {$spell} once per day.
